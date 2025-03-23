@@ -1,3 +1,9 @@
+### Nota importante
+A maior parte do código presente neste repositório foi criada pelo professor Denilson Bonatti. Eu apenas modifiquei o arquivo php.
+Abaixo está o conteúdo do README como escrito pelo professor.
+
+### -
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
