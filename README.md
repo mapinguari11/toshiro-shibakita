@@ -1,5 +1,5 @@
 ### Nota importante
-A maior parte do código presente neste repositório foi criada pelo professor Denilson Bonatti. Eu apenas modifiquei o arquivo php.
+A maior parte do código presente neste repositório foi criada pelo professor Denilson Bonatti. Eu apenas modifiquei o arquivo sql.
 Abaixo está o conteúdo do README como escrito pelo professor.
 
 ### -
